@@ -1,1 +1,1 @@
-# Displaying Random Videos from your YouTube Channel for a stream countdown in OSMC
+# Displaying Random YouTube Channel Videos During Stream Countdown
